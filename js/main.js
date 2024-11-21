@@ -47,9 +47,9 @@ var quotesOfDay = [
 ];
 
 var lastRandomNumber = null;
-
-function getRandomQuote() {
   var rand;
+function getRandomQuote() {
+
   do {
     rand = Math.floor(Math.random() * quotesOfDay.length);
   } while (rand === lastRandomNumber);
