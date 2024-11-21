@@ -1,0 +1,19 @@
+body{
+    box-sizing: border-box;
+}
+
+
+.tt{
+    background-image: url(../image/buti.gif);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+
+
+}
+button.btn:hover {
+    background-color: rgb(163, 9, 9) !important;
+}
+button.btn:hover  {
+    background-color: rgb(163, 9, 9) !important;
+}
